@@ -1,4 +1,4 @@
-# Laboratorio Bice Lab
+https://github.com/SanchezSoza/BiceLab Bice Lab
 Consumo de APIS para obtener informacion bursatil desde la url http://www.indecon.online
 La tecnologia utilizada es:
 * Java 8
@@ -9,7 +9,7 @@ La tecnologia utilizada es:
 * Docker
 
 # Creacion de Proyecto en Docker
-* Primero se deben bajar las fuentes que se desean compilar y desplegar en Docker, este proyecto se encuentra en la siguiente ruta: "https://github.com/SanchezSoza/LabRest/tree/25052020_IniLab"
+* Primero se deben bajar las fuentes que se desean compilar y desplegar en Docker, este proyecto se encuentra en la siguiente ruta: "https://github.com/SanchezSoza/BiceLab", para subir a docker es requisito contar con Docker para realizar la operacion
 * Despues de descargadas las fuentes uno se debe posicionar dentro del proyecto descargado a la altura donde se encuentra el archivo DockerFile y pom.xml
 * Posteriormente crearemos la imagen del archivo que queremos compilar con el siguiente comando
 ```bash
