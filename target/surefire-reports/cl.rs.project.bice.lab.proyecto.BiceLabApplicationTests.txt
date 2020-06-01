@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cl.rs.project.bice.lab.proyecto.BiceLabApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.718 s - in cl.rs.project.bice.lab.proyecto.BiceLabApplicationTests
