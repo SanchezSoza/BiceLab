@@ -8,6 +8,13 @@ La tecnologia utilizada es:
 * Mockito
 * Docker
 
+
+#Descarga de Imagen Tomcat
+*Antes de empezar con la creacion del proyecto en Docker se debe bajar una imagen de tomcat para desplegar correctamente el proyecto en Docker, para esta prueba usamos de las imagenes oficiales de tomcat la version 8.0.51, para realizar la descarga se debe ejecutar el siguiente comando
+```bash
+docker pull tomcat:8.0.51-jre8-alpine
+```
+
 # Creacion de Proyecto en Docker
 * Primero se deben bajar las fuentes que se desean compilar y desplegar en Docker, este proyecto se encuentra en la siguiente ruta: "https://github.com/SanchezSoza/BiceLab", para subir a docker es requisito contar con Docker para realizar la operacion
 * Despues de descargadas las fuentes uno se debe posicionar dentro del proyecto descargado a la altura donde se encuentra el archivo DockerFile y pom.xml
